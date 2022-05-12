@@ -1,0 +1,177 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+
+
+body {
+   color: #40514e;; 
+   margin: 0px;
+   text-align: center;
+   font-family: 'Merriweather', serif;
+   background-color: #eaf6f9;
+  
+}
+
+h1 {
+   font-size: 5.625rem; 
+   margin-top: 50px 0 auto 0;
+   font-family: 'Sacramento', cursive;
+   color: #66bfbf;
+   
+}
+
+h2 {
+
+   font-size: 2.5rem;
+   font-family: 'Montserrat', sans-serif;
+   color: #66bfbf;
+   font-weight: normal;
+   padding-bottom: 10px;
+
+}
+
+h3 {
+
+    font-family: 'Montserrat', sans-serif;
+    color: #11999e;
+}
+
+p {
+
+    margin-top: 30px;
+}
+
+.div-superior {
+   background-color: #e4f9f5;  
+   position: relative;
+   padding-top: 100px;
+}
+
+
+
+.middle-container {
+    margin: 100px 0;
+}
+
+   
+    
+
+
+.bottom-container {
+    background-color: #66BFBF;
+    padding: 50px 0 20px;
+}
+
+    
+
+
+
+.nubesuperior {
+
+    position: absolute;
+    right: 500px;
+    bottom: 300px;
+}
+
+.nubeinferior {
+
+    position: absolute;
+    left: 500px;
+    bottom: 300px;
+
+   
+
+}
+
+.footer-link {
+
+    color: #11999e;
+}
+
+.skill-row {
+    
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+    
+}
+
+.teclado {
+
+    margin-right: 30px;
+    float: left;
+}
+
+.picante {
+
+    margin-left: 30px;
+    float: right;
+}
+
+.jairofoto {
+
+    width: 11%;
+    margin-top: 30px;
+}
+
+hr {
+
+    border: dotted #11999E 6px;
+    border-bottom:  none;
+    width: 4%;
+    margin: 100px auto;
+    
+}
+
+.contact-message {
+
+    width: 40%;
+    margin: 40px auto 60px;
+}
+
+.mybutton {
+	background-color:#88b8b8;
+	border-radius:28px;
+	border:1px solid #64c3db;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:'Montserrat', sans-serif;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+    margin-top: 30px;
+}
+.mybutton:hover {
+	background-color:#bad3e0;
+}
+.mybutton:active {
+	position:relative;
+	top:1px;
+}
+
+a{
+  color: #11999E;
+  font-family:'Montserrat', sans-serif;
+  margin:  10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+   color: #eaf6f6; 
+}
+
+.copyry {
+
+    color: #eaf6f6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+
+
+}
